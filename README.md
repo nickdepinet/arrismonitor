@@ -25,3 +25,6 @@ Install requirements with `pip install -r requirements.txt` and then run the pro
 `docker pull nickdepinet/arrismonitor`
 `docker run nickdepinet/arrismonitor`
 
+# Thanks
+Special Thanks to:
+* https://github.com/mitchelhaan/moto-client for the motorola hnap client which i've updated to work with arris modems
