@@ -12,7 +12,7 @@ Config is handled by environment settings:
 |ARRIS_HOST| modem ip | 192.168.100.1 |
 |ARRIS_USER| modem username | admin |
 |ARRIS_PASSWORD| modem password | password |
-|INFLUX_URL| influxdb url | http://localhost/8086 |
+|INFLUX_URL| influxdb url | http://localhost:8086 |
 |INFLUX_TOKEN| influxdb access token (needs write on the bucket) | no default |
 |INFLUX_BUCKET| influxdb bucket | modem_status |
 |INFLUX_ORG| influxdb org | logs |
